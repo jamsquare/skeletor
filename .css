@@ -1,0 +1,203 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: cornflowerblue;
+}
+
+li {
+	display: inline-block;
+}
+
+img {
+	height: 250px;
+	width: 250px;
+	border: 10px solid rebeccapurple;
+	border-radius: 100px;
+}
+
+#img_1 {
+	position: relative;
+	left: 10px;
+}
+
+#img_2 {
+	position: relative;
+	top: -120px;
+	left: 1020px;
+}
+
+#img_3 {
+	position: relative;
+	left: 10px;
+	top: -180px;
+}
+
+#img_4 {
+	position: relative;
+	top: -280px;
+	left: 1020px;
+}
+
+#img_5 {
+	position: relative;
+	left: 10px;
+	top: -420px;
+}
+
+#episode1header {
+	font-family: "Metal Mania";
+	font-size: 40px;
+	color: rebeccapurple;
+}
+
+#episode2header {
+	font-family: "Metal Mania";
+	font-size: 40px;
+	color: rebeccapurple;
+	text-align: right;
+	position: relative;
+	top: -120px;
+}
+
+#episode3header {
+	font-family: "Metal Mania";
+	font-size: 40px;
+	color: rebeccapurple;
+	position: relative;
+	top: -180px;
+}
+
+#episode4header {
+	font-family: "Metal Mania";
+	font-size: 40px;
+	color: rebeccapurple;
+	text-align: right;
+	position: relative;
+	top: -280px;
+}
+
+#episode5header {
+	font-family: "Metal Mania";
+	font-size: 40px;
+	color: rebeccapurple;
+	position: relative;
+	top: -420px;
+}
+
+#para1 {
+	position: relative;
+	top: -200px;
+	left: 275px;
+	text-align: left;
+	font-family: "Metal Mania";
+	font-size: 28px;
+	font-weight: normal;
+	color: rebeccapurple;
+	width: 900px;
+	background-color: khaki;
+}
+
+#para2 {
+	position: relative;
+	top: -290px;
+	left: 105px;
+	text-align: left;
+	font-family: "Metal Mania";
+	font-size: 28px;
+	font-weight: normal;
+	color: rebeccapurple;
+	width: 900px;
+	background-color: khaki;
+}
+
+#para3 {
+	position: relative;
+	top: -370px;
+	left: 275px;
+	text-align: left;
+	font-family: "Metal Mania";
+	font-size: 28px;
+	font-weight: normal;
+	color: rebeccapurple;
+	width: 900px;
+	background-color: khaki;
+}
+
+#para4 {
+	position: relative;
+	top: -480px;
+	left: 105px;
+	text-align: left;
+	font-family: "Metal Mania";
+	font-size: 28px;
+	font-weight: normal;
+	color: rebeccapurple;
+	width: 900px;
+	background-color: khaki;
+}
+
+#para5 {
+	position: relative;
+	top: -600px;
+	left: 275px;
+	text-align: left;
+	font-family: "Metal Mania";
+	font-size: 28px;
+	font-weight: normal;
+	color: rebeccapurple;
+	width: 900px;
+	background-color: khaki;
+}
+
+.mainborder {
+	width: 1300px;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	border: 10px outset rebeccapurple;
+	border-radius: 50px;
+	height: 1800px;
+}
+
+.header {
+	height: 550px;
+	background: url("http://i1.kym-cdn.com/entries/icons/original/000/017/507/1-13-Skeletor-Orgasm.png") no-repeat top center;
+	text-align: center;
+	font-family: "Metal Mania";
+	color: rebeccapurple;
+	font-size: 60px;
+	width: 1300px;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	border: 10px outset rebeccapurple;
+	border-radius: 50px;
+}
+
+.navbackground {
+	width: 1300px;
+	background-color: white;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.navbar {
+	font-family:"Metal Mania";
+	color: rebeccapurple;
+	background-color: khaki;
+	font-size: 35px;
+	text-align: center;
+	border: 10px outset rebeccapurple;
+	border-radius: 50px;
+	width: 900px;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	top: -10px;
+}
